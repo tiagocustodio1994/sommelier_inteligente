@@ -9,6 +9,10 @@ para determinar automaticamente um tipo de vinho.
 
 Para realizar a instalação utilie o pacote do Python [pip](https://pip.pypa.io/en/stable/).
 
+```bash
+pip install -U -r requiremets.txt
+```
+
 ## Utilização
 
 ```bash
